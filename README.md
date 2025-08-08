@@ -1,4 +1,4 @@
-#  Insurance Cost Prediction 🩺💰
+#  Insurance Cost Prediction
 
 This project is a machine learning regression model that predicts medical insurance charges based on demographic and health-related features.
 
